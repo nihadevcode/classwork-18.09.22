@@ -1,6 +1,6 @@
 input
 
-	m = 10
+	m = 10; n
 
 if 
 		
