@@ -1,0 +1,9 @@
+input a
+
+if 
+
+	a % 3 == 0
+
+else
+
+end
